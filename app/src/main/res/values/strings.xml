@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">michaelvanderzwet_pset2</string>
+    <string name="simple">Simple</string>
+    <string name="tarzan">Tarzan</string>
+    <string name="univeristy">Univeristy</string>
+    <string name="clothes">Clothes</string>
+    <string name="dance">Dance</string>
+    <string name="random">Random</string>
+    <string name="university">university</string>
+    <string name="pick_your_story">Pick your story!</string>
+    <string name="pick_a_random_story">Pick_a random story!</string>
+</resources>
